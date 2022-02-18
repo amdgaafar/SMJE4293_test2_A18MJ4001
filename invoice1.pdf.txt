@@ -1,0 +1,13 @@
+InvoiceDATE: [Enter date] 
+INVOICE # [100]TO:[Client Name] 
+[Email] 
+[Address 1] 
+[Address 2] 
+[Phone]FROM:[Company Name] 
+[Email] 
+[Address 1] 
+[Address 2] 
+[Phone]TERMS: 
+DUE:[Payment Terms]
+[Payment Due Date]Item DescriptionQuantityPriceAmountSubtotalTax 
+BALANCE DUENotesClick here to add notes or terms of service.
